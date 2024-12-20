@@ -1,1 +1,1 @@
-# yashrawool-Amenity-Detection-using-Detectron2
+# Amenity-Detection-using-Detectron2
